@@ -51,22 +51,25 @@ const Navbar = () => {
         <div className='justify-end flex-1 hidden lg:flex'>
           <ul className='flex space-x-8 text-2xl font-bold'>
             <li>
-              <a href='#about' className='text-2xl hover:underline'>
+              <a href='#about' className='text-2xl hover:text-secondaryBlue'>
                 About Us
               </a>
             </li>
             <li>
-              <a href='#benefits' className='text-2xl hover:underline'>
+              <a href='#benefits' className='text-2xl hover:text-secondaryBlue'>
                 Benefits
               </a>
             </li>
             <li>
-              <a href='#path' className='text-2xl hover:underline'>
+              <a href='#path' className='text-2xl hover:text-secondaryBlue'>
                 Path
               </a>
             </li>
             <li>
-              <a href='#requirements' className='text-2xl hover:underline'>
+              <a
+                href='#requirements'
+                className='text-2xl hover:text-secondaryBlue'
+              >
                 Requirements
               </a>
             </li>
