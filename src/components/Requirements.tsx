@@ -1,5 +1,14 @@
+import Heading from './Heading'
+
 const Requirements = () => {
-  return <div>Requirements</div>
+  return (
+    <div>
+      <Heading
+        left='Program Requirements'
+        right='Conditions for Cyprus Residency'
+      />
+    </div>
+  )
 }
 
 export default Requirements
