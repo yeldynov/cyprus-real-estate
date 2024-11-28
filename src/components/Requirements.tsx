@@ -2,12 +2,12 @@ import Heading from './Heading'
 
 const Requirements = () => {
   return (
-    <div>
+    <section id='requirements'>
       <Heading
         left='Program Requirements'
         right='Conditions for Cyprus Residency'
       />
-    </div>
+    </section>
   )
 }
 

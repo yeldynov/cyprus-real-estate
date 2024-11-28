@@ -2,7 +2,7 @@ import Heading from './Heading'
 
 const Path = () => {
   return (
-    <div>
+    <section id='path'>
       <Heading
         left='We guarantee a secure path to residency'
         right='Your Security Matters'
@@ -13,7 +13,7 @@ const Path = () => {
         left='Investment Options for Cyprus Residency'
         right='Choose Your Investment Path'
       />
-    </div>
+    </section>
   )
 }
 

@@ -2,12 +2,12 @@ import Heading from './Heading'
 
 const Carousel = () => {
   return (
-    <div>
+    <section id='about'>
       <Heading
         left='Why Cyprus is the Right Choice for Investors'
         right='Our relevance'
       />
-    </div>
+    </section>
   )
 }
 

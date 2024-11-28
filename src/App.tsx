@@ -4,6 +4,7 @@ import CTA from './components/CTA'
 import CTA2 from './components/CTA2'
 import Footer from './components/Footer'
 import Hero from './components/Hero'
+import Navbar from './components/Navbar'
 import Offer from './components/Offer'
 import Path from './components/Path'
 import Requirements from './components/Requirements'
@@ -14,6 +15,7 @@ function App() {
   return (
     <div className='min-h-screen bg-[#EBF5FB] font-lato text-mainText'>
       <main className='p-5 mx-auto lg:p-24 max-w-7xl space-y-[60px] lg:space-y-[160px]'>
+        <Navbar />
         <Hero />
         <Carousel />
         <Offer />
