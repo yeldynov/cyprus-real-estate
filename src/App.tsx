@@ -12,8 +12,8 @@ import Tags from './components/Tags'
 
 function App() {
   return (
-    <div className='font-lato bg-[#EBF5FB] text-mainText min-h-screen'>
-      <main className='p-5 mx-auto lg:p-24 max-w-7xl'>
+    <div className='min-h-screen bg-[#EBF5FB] font-lato text-mainText'>
+      <main className='p-5 mx-auto lg:p-24 max-w-7xl space-y-[60px] lg:space-y-[160px]'>
         <Hero />
         <Carousel />
         <Offer />
