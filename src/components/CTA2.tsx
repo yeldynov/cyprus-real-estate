@@ -4,7 +4,7 @@ import { Button } from './ui/button'
 const CTA2 = () => {
   return (
     <div className='flex flex-col lg:flex-row'>
-      <div className=" h-[301px] lg:w-[480px] bg-center lg:h-[603px] rounded-t-3xl lg:rounded-l-3xl bg-no-repeat bg-[url('cta2.png')]"></div>
+      <div className=" h-[301px] lg:w-[480px] bg-center lg:h-[603px] rounded-t-3xl lg:rounded-l-3xl bg-no-repeat bg-[url('/cta2.png')]"></div>
       <div className='flex flex-col flex-1 px-5 py-5 space-y-6 bg-white lg:px-12 lg:py-20 rounded-b-3xl lg:rounded-r-3xl'>
         <h2 className='lg:text-[40px] text-xl lg:leading-[48px]'>
           Get Expert Consultation
