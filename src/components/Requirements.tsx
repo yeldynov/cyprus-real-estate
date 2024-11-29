@@ -8,7 +8,7 @@ const Requirements = () => {
         right='Conditions for Cyprus Residency'
       />
       <div className='flex lg:h-[230px] flex-col lg:flex-row'>
-        <div className="lg:w-[434px] bg-contain h-[230px] bg-center rounded-t-3xl lg:rounded-l-3xl lg:rounded-r-none bg-no-repeat bg-[url('purchase.png')]"></div>
+        <div className="lg:w-[434px] bg-contain h-[230px] bg-center rounded-t-3xl lg:rounded-l-3xl lg:rounded-r-none bg-no-repeat bg-[url('/purchase.png')]"></div>
         <div className='flex flex-col flex-1 px-5 py-5 space-y-6 bg-white lg:px-12 lg:py-10 rounded-b-3xl lg:rounded-l-none lg:rounded-r-3xl'>
           <h3 className='lg:text-xl text-base font-semibold lg:leading-[30px]'>
             Investment in Residential or Commercial Property
@@ -28,7 +28,7 @@ const Requirements = () => {
         </div>
       </div>
       <div className='flex lg:h-[230px] flex-col lg:flex-row'>
-        <div className="lg:w-[434px] bg-contain h-[230px] bg-center rounded-t-3xl lg:rounded-l-3xl lg:rounded-r-none bg-no-repeat bg-[url('eligibility.png')]"></div>
+        <div className="lg:w-[434px] bg-contain h-[230px] bg-center rounded-t-3xl lg:rounded-l-3xl lg:rounded-r-none bg-no-repeat bg-[url('/eligibility.png')]"></div>
         <div className='flex flex-col flex-1 px-5 py-5 space-y-6 bg-white lg:px-12 lg:py-10 rounded-b-3xl lg:rounded-l-none lg:rounded-r-3xl'>
           <h3 className='lg:text-xl text-base font-semibold lg:leading-[30px]'>
             Requirements for Residency Applicants
@@ -48,7 +48,7 @@ const Requirements = () => {
         </div>
       </div>
       <div className='flex lg:h-[260px] flex-col lg:flex-row'>
-        <div className="lg:w-[434px] bg-contain h-[260px] bg-center rounded-t-3xl lg:rounded-l-3xl lg:rounded-r-none bg-no-repeat bg-[url('compliance.png')]"></div>
+        <div className="lg:w-[434px] bg-contain h-[260px] bg-center rounded-t-3xl lg:rounded-l-3xl lg:rounded-r-none bg-no-repeat bg-[url('/compliance.png')]"></div>
         <div className='flex flex-col flex-1 px-5 py-5 space-y-6 bg-white lg:px-12 lg:py-10 rounded-b-3xl lg:rounded-l-none lg:rounded-r-3xl'>
           <h3 className='lg:text-xl text-base font-semibold lg:leading-[30px]'>
             Periodic Presence and Document Compliance
