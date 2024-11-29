@@ -16,7 +16,7 @@ const Hero = () => {
           Invest in Cyprus real estate to gain EU citizenship, providing
           security and exceptional lifestyle benefits for you and your family.
         </p>
-        <Button className='p-6 text-xl text-white bg-mainBlue w-fit rounded-xl'>
+        <Button className='p-6 text-white bg-mainBlue w-fit rounded-xl'>
           Start Your Journey
         </Button>
       </div>
