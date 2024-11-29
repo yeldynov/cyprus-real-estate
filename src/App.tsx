@@ -26,7 +26,7 @@ function App() {
         <Requirements />
         <Steps />
         <CTA2 />
-        {/* <Footer /> */}
+        <Footer />
       </main>
     </div>
   )

@@ -1,4 +1,3 @@
-import { ArrowRight } from 'lucide-react'
 import { FaArrowRightLong } from 'react-icons/fa6'
 import { Button } from './ui/button'
 
